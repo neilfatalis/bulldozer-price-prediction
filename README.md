@@ -1,1 +1,1 @@
-Dataset can be downloaded [here](https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip).
+Dataset can be downloaded [here](https://www.kaggle.com/c/bluebook-for-bulldozers/data).
