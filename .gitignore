@@ -13,3 +13,6 @@ venv.bak/
 # Machine Learning Model Export
 *.pkl
 *.joblib
+
+# Dataset
+data/
